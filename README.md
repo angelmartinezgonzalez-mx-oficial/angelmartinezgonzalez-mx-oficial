@@ -85,6 +85,21 @@ Experiencia comprobada en sectores de **finanzas, seguros, telecomunicaciones, f
 
 ---
 
+## Experiencia en Contabilidad y Sistemas Administrativos
+
+**Contabilidad y Facturación Electrónica (CFDI)**  
+- Implementación de **facturación electrónica CFDI 4.0** y conciliación fiscal automatizada.  
+- Extracción y análisis de información de facturas para **IVA, ISR y retenciones**.  
+- Desarrollo de scripts en **Python, SQL, Delphi y C++ Builder** para procesos contables y administrativos.  
+
+**Sistemas Administrativos y ERP**  
+- Diseño de módulos de **inventarios, compras y ventas**.  
+- Dashboards financieros y operativos en **Power BI**.  
+- Integración con **ERP y sistemas de gestión administrativa**.  
+- Optimización de **cierres contables y flujo de caja** mediante automatización de procesos.  
+
+---
+
 ## Educación
 - Ingeniería en Sistemas
   
