@@ -6,7 +6,7 @@
 📧 contacto@angelmartinezgonzalez.com.mx  | 📱   
 🌐 angelmartinezgonzalez.com.mx | 
 GitHub: [github.com/angelmartinezgonzalez](https://github.com/angelmartinezgonzalez-mx-oficial) | 
-LinkedIn: linkedin.com/in/angelmartinezgonzalez-mx-oficial  
+LinkedIn: [linkedin.com/in/angelmartinezgonzalez-mx-oficial](https://www.linkedin.com/in/angelmartinezgonzalez-mx-oficial/)  
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tu_canal)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tu_usuario)
